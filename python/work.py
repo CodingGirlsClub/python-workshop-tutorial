@@ -1,8 +1,17 @@
 # -*- coding: utf-8 -*-
 
 """
-Created By pengguanhua on 2017/12/10
+turtle 是一个可以画图的 python 扩展，运行下段代码，观察结果
+更多的操作，查看 http://www.cnblogs.com/nowgood/p/turtle.html
+
+需要自行画出的图形：
+正方形
+三角形
+N边形
+杨辉三角
+蜂巢
 """
+
 
 # 画一个五角星
 import turtle
